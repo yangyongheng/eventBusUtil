@@ -1,4 +1,4 @@
-package me.andpay.mobile.eventbus;
+package com.yale.eventbus;
 
 import de.greenrobot.event.EventBus;
 

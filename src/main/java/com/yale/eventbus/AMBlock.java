@@ -1,4 +1,4 @@
-package me.andpay.mobile.eventbus;
+package com.yale.eventbus;
 
 /**
  * 待执行的代码块

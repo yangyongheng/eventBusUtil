@@ -1,4 +1,4 @@
-package me.andpay.mobile.eventbus;
+package com.yale.eventbus;
 
 /**
  * 对第三方EventBus接口
