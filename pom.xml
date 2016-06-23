@@ -6,7 +6,7 @@
   <artifactId>eventbus-util</artifactId>
   <packaging>jar</packaging>
   <version>1.0.0</version>
-  <name>Event Bus</name>
+  <name>eventbus-util</name>
   <url>http://maven.apache.org</url>
   
   <dependencies>
@@ -16,5 +16,12 @@
           <version>2.4.0</version>
       </dependency>
   </dependencies>
+  
+  <repositories>
+        <repository>
+            <id>yonghengheng-eventbus-util</id>
+            <url>https://raw.githubusercontent.com/yonghengheng/eventBusUtil/master/repository</url>
+        </repository>
+    </repositories>
 
 </project>
